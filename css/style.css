@@ -1243,3 +1243,8 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+div.mapa {
+  height: 420px;
+  color: #4cae4c;
+}
